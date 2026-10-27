@@ -1,0 +1,12 @@
+
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg[binary]
+alembic
+pydantic-settings
+python-jose[cryptography]
+argon2-cffi
+email-validator
+httpx
+qdrant-client
